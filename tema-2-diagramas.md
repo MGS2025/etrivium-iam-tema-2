@@ -2,8 +2,8 @@
 
 > **Título oficial**: La Constitución Española (II): La Organización territorial del Estado. Principios generales. La Administración Local. Las Comunidades Autónomas: los Estatutos de Autonomía.
 >
-> **Versión**: 1.0
-> **Fecha**: 2026-06-15
+> **Versión**: 1.1
+> **Fecha**: 2026-06-17
 > **Formato**: SVG inline (zero-dependencias, escalable, imprimible)
 > **Paleta**: Ayuntamiento de Madrid #0055a0 (primario) + #d13c3c (alertas) + #2d8659 (ventajas) + #e89822 (callouts)
 
@@ -25,6 +25,7 @@
 | D10 | Control de las CCAA y coerción estatal (arts. 153-155)  | § 9     | Flowchart |
 | D11 | Financiación autonómica (arts. 156-158)                 | § 10    | Mapa |
 | D12 | Madrid: los tres niveles en la ciudad                   | § 11    | Árbol |
+| D13 | Definiciones clave: entidades locales y Estatutos       | § 4     | Fichas |
 
 ---
 
@@ -512,5 +513,57 @@
   <text x="350" y="256" class="d12-s">Municipio de RÉGIMEN ESPECIAL</text>
   <text x="350" y="274" class="d12-s">Ley 22/2006 de Capitalidad y de Régimen Especial</text>
   <text x="350" y="304" class="d12-n" style="font-style:italic">Tres administraciones conviven en el territorio de la ciudad de Madrid</text>
+</svg>
+```
+
+---
+
+## D13 · Definiciones clave: entidades locales y Estatutos de Autonomía
+
+**Sección**: § 4 — La Administración Local
+**Propósito**: Resumir en fichas las definiciones de municipio, provincia y régimen especial (Ceuta y Melilla) y de los Estatutos de Autonomía.
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" role="img" aria-label="Definiciones clave: municipios, provincias y régimen especial de Ceuta y Melilla como entidades locales, y los Estatutos de Autonomía como norma básica de las Comunidades Autónomas">
+  <style>
+    .d13-bar{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
+    .d13-loc{fill:#fff;stroke:#0055a0;stroke-width:1.5}
+    .d13-h{font:700 13px system-ui,sans-serif;fill:#003d73;text-anchor:middle}
+    .d13-t{font:11px system-ui,sans-serif;fill:#333;text-anchor:middle}
+    .d13-art{font:italic 10px system-ui,sans-serif;fill:#888;text-anchor:middle}
+  </style>
+  <rect x="20" y="18" width="660" height="34" rx="8" fill="#0055a0"/>
+  <text x="350" y="40" class="d13-bar">ORGANIZACIÓN TERRITORIAL DEL ESTADO · La Administración Local</text>
+  <rect x="20" y="66" width="210" height="158" rx="8" class="d13-loc"/>
+  <text x="125" y="92" class="d13-h">MUNICIPIOS</text>
+  <text x="125" y="116" class="d13-t">Unidad básica de la</text>
+  <text x="125" y="133" class="d13-t">organización territorial.</text>
+  <text x="125" y="158" class="d13-t">Su gobierno: el</text>
+  <text x="125" y="175" class="d13-t" style="font-weight:700;fill:#003d73">AYUNTAMIENTO</text>
+  <text x="125" y="192" class="d13-t">(Alcalde + concejales)</text>
+  <text x="125" y="216" class="d13-art">art. 140 CE</text>
+  <rect x="245" y="66" width="210" height="158" rx="8" class="d13-loc"/>
+  <text x="350" y="92" class="d13-h">PROVINCIAS</text>
+  <text x="350" y="116" class="d13-t">Agrupación de</text>
+  <text x="350" y="133" class="d13-t">municipios.</text>
+  <text x="350" y="158" class="d13-t">Gestión: Diputaciones</text>
+  <text x="350" y="175" class="d13-t">Provinciales (u órgano</text>
+  <text x="350" y="192" class="d13-t">equiv. uniprovincial)</text>
+  <text x="350" y="216" class="d13-art">art. 141 CE</text>
+  <rect x="470" y="66" width="210" height="158" rx="8" fill="#fdf4e4" stroke="#e89822" stroke-width="1.5"/>
+  <text x="575" y="92" class="d13-h" style="fill:#a8650f">RÉGIMEN ESPECIAL</text>
+  <text x="575" y="116" class="d13-t">Ceuta y Melilla,</text>
+  <text x="575" y="133" class="d13-t">ciudades autónomas.</text>
+  <text x="575" y="158" class="d13-t">Combinan competencias</text>
+  <text x="575" y="175" class="d13-t">de municipio y</text>
+  <text x="575" y="192" class="d13-t">de provincia.</text>
+  <rect x="20" y="248" width="660" height="32" rx="8" fill="#2d8659"/>
+  <text x="350" y="269" class="d13-bar">LAS COMUNIDADES AUTÓNOMAS · LOS ESTATUTOS DE AUTONOMÍA</text>
+  <rect x="20" y="294" width="660" height="112" rx="8" fill="#fff" stroke="#2d8659" stroke-width="1.5"/>
+  <text x="350" y="324" class="d13-h" style="fill:#1f5e3f">ESTATUTOS DE AUTONOMÍA</text>
+  <text x="350" y="350" class="d13-t" style="font-size:12px">Norma institucional básica de cada Comunidad Autónoma.</text>
+  <text x="350" y="372" class="d13-t" style="font-size:12px">Regulan su organización política, sus competencias</text>
+  <text x="350" y="390" class="d13-t" style="font-size:12px">y el marco de relaciones con el Estado.</text>
+  <text x="350" y="402" class="d13-art">art. 147 CE</text>
 </svg>
 ```

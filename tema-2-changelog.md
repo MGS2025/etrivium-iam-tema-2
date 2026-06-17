@@ -4,6 +4,18 @@
 
 ---
 
+## v1.1 — 2026-06-17 — Diagrama de definiciones (feedback María)
+
+**Estado**: Pendiente de validación por María / Ana (IAM).
+
+### Cambios
+
+- **Nuevo diagrama D13** «Definiciones clave: entidades locales y Estatutos de Autonomía» (§ 4), a petición de María: ficha visual con las definiciones de **municipios**, **provincias**, **régimen especial (Ceuta y Melilla)** y **Estatutos de Autonomía**.
+- Total de diagramas: **12 → 13**.
+- `index.html` regenerado con `build_t2.py`; versión visible actualizada a **v1.1**.
+
+---
+
 ## v1.0 — 2026-06-15 — Generación inicial completa
 
 **Estado**: Pendiente de validación por María / Ana (IAM).

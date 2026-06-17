@@ -240,9 +240,9 @@ def build():
     <p class="subtitle">La Organización territorial del Estado · La Administración Local · Las Comunidades Autónomas: los Estatutos de Autonomía</p>
   </div>
   <div class="version-banner">
-    <span class="badge badge-v1">v1.0</span>
+    <span class="badge badge-v1">v1.1</span>
     <div><strong>Piloto pendiente de validación</strong><br>
-    <small>Bloque I — Administrativo/Jurídico · C1 Técnico Auxiliar TIC · Ayuntamiento de Madrid · 2026-06-15</small></div>
+    <small>Bloque I — Administrativo/Jurídico · C1 Técnico Auxiliar TIC · Ayuntamiento de Madrid · 2026-06-17</small></div>
   </div>
   <div class="card">
     <h2 style="margin-top:0">Resumen del tema</h2>
@@ -254,7 +254,7 @@ def build():
       <thead><tr><th>Pestaña</th><th>Contenido</th></tr></thead>
       <tbody>
         <tr><td><strong>Contenido</strong></td><td>12 secciones con texto, tablas y callouts de estudio</td></tr>
-        <tr><td><strong>Diagramas</strong></td><td>12 esquemas visuales (SVG)</td></tr>
+        <tr><td><strong>Diagramas</strong></td><td>13 esquemas visuales (SVG)</td></tr>
         <tr><td><strong>Test</strong></td><td>150 preguntas tipo examen con corrección automática y penalización 1/3</td></tr>
         <tr><td><strong>Casos</strong></td><td>6 casos prácticos aplicados al Ayuntamiento/Comunidad de Madrid</td></tr>
         <tr><td><strong>Validación</strong></td><td>Checklist de revisión para María / Ana (IAM)</td></tr>
