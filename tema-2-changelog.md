@@ -4,6 +4,16 @@
 
 ---
 
+## v1.4 — 2026-10-06 — Revisión de diagramas
+
+**Motivo**: barrido de los diagramas de los 40 temas tras la revisión jurídica y de normas.
+
+### Cambios
+
+- Revisión visual de todos los diagramas, captura a captura (la medición automática no detecta contraste, flechas mal dirigidas ni textos pegados al borde): corregidos textos que se salían de su caja o del lienzo, cajas que se tocaban, flechas que no llegaban a su destino y textos con poco contraste. Sin cambios de contenido.
+
+---
+
 ## v1.3 — 2026-10-01 — Revisión jurídica
 
 **Estado**: aplicada la revisión jurídica de los temas 1-10. Textos normativos comprobados contra el BOE consolidado (CE, LBRL, LO 3/1983, LO 6/1982, LO 1/1995, Ley 22/2006).

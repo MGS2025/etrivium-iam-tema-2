@@ -520,7 +520,7 @@
 **Propósito**: Resumir en fichas las definiciones de municipio, provincia y régimen especial (Ceuta y Melilla) y de los Estatutos de Autonomía.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" role="img" aria-label="Definiciones clave: municipios, provincias y régimen especial de Ceuta y Melilla como entidades locales, y los Estatutos de Autonomía como norma básica de las Comunidades Autónomas">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 436" role="img" aria-label="Definiciones clave: municipios, provincias y régimen especial de Ceuta y Melilla como entidades locales, y los Estatutos de Autonomía como norma básica de las Comunidades Autónomas">
   <style>
     .d13-bar{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .d13-loc{fill:#fff;stroke:#0055a0;stroke-width:1.5}
@@ -555,11 +555,11 @@
   <text x="575" y="192" class="d13-t">de provincia.</text>
   <rect x="20" y="248" width="660" height="32" rx="8" fill="#2d8659"/>
   <text x="350" y="269" class="d13-bar">LAS COMUNIDADES AUTÓNOMAS · LOS ESTATUTOS DE AUTONOMÍA</text>
-  <rect x="20" y="294" width="660" height="112" rx="8" fill="#fff" stroke="#2d8659" stroke-width="1.5"/>
+  <rect x="20" y="294" width="660" height="128" rx="8" fill="#fff" stroke="#2d8659" stroke-width="1.5"/>
   <text x="350" y="324" class="d13-h" style="fill:#1f5e3f">ESTATUTOS DE AUTONOMÍA</text>
   <text x="350" y="350" class="d13-t" style="font-size:12px">Norma institucional básica de cada Comunidad Autónoma.</text>
   <text x="350" y="372" class="d13-t" style="font-size:12px">Regulan su organización política, sus competencias</text>
   <text x="350" y="390" class="d13-t" style="font-size:12px">y el marco de relaciones con el Estado.</text>
-  <text x="350" y="402" class="d13-art">art. 147 CE</text>
+  <text x="350" y="412" class="d13-art">art. 147 CE</text>
 </svg>
 ```
