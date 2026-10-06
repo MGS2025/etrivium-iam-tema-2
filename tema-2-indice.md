@@ -24,7 +24,7 @@
 | 4.2 | La Provincia (art. 141) | Art. 141 | D4 |
 | 4.3 | Islas, comarcas y áreas metropolitanas | Arts. 141.3-141.4 | — |
 | 4.4 | Las Haciendas Locales (art. 142) | Art. 142 | — |
-| 4.5 | Desarrollo legal: la LBRL 7/1985 | [LBRL] | D5 |
+| 4.5 | Desarrollo legal: la LBRL 7/1985 | (LBRL) | D5 |
 | 5 | Las Comunidades Autónomas: acceso a la autonomía | Arts. 143-145 | D6 |
 | 5.1 | Vía ordinaria o lenta (art. 143) | Art. 143 | D6 |
 | 5.2 | Supuestos especiales del art. 144 | Art. 144 | — |
@@ -43,7 +43,7 @@
 | 9.1 | Vías de control (art. 153) y Delegado del Gobierno (art. 154) | Arts. 153-154 | D10 |
 | 9.2 | La coerción estatal del art. 155 | Art. 155 | D10 |
 | 10 | La financiación autonómica | Arts. 156-158 | D11 |
-| 11 | Madrid: Comunidad de Madrid y Ley de Capitalidad | [EAM], [LCREM] | D12 |
+| 11 | Madrid: Comunidad de Madrid y Ley de Capitalidad | (EAM), (Ley 22/2006) | D12 |
 | 12 | Esquema resumen + cómo estudiar el tema | Memorización | D3 + D6 |
 
 ---

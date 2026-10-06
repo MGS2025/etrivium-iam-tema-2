@@ -15,7 +15,7 @@ Igual que el resto de temas del bloque administrativo (1-10), el Tema 2 trabaja 
 
 - La fuente primaria es el **Título VIII de la CE (arts. 137-158)**.
 - A diferencia del Tema 1 (que se ciñó al texto constitucional), aquí se ha optado por un **alcance ampliado**: se incorpora la legislación de desarrollo imprescindible para comprender el modelo territorial —**LBRL 7/1985**, **LOFCA 8/1980**, **Estatuto de Autonomía de Madrid** y **Ley de Capitalidad 22/2006**— sin sobrecargar con doctrina académica.
-- Las citas se expresan como referencias a **artículos** (`[CE, art. 140]`) o a la **norma de desarrollo** (`[LBRL, art. 25]`).
+- Las citas se expresan como referencias a **artículos** (`(art. 140 CE)`) o a la **norma de desarrollo** (`(art. 25 LBRL)`).
 
 ---
 
@@ -44,9 +44,9 @@ Igual que el resto de temas del bloque administrativo (1-10), el Tema 2 trabaja 
 
 ### Esquema de referencia para el contenido
 
-- **Articulado CE**: `[CE, art. X]` o `[CE, art. X.Y]` — p. ej. `[CE, art. 149.1.18.ª]`
-- **Leyes de desarrollo**: `[LBRL, art. X]`, `[LOFCA, art. X]`, `[LCREM, art. X]`
-- **Disposiciones de la CE**: `[CE, DT 1.ª]`, `[CE, DT 2.ª]` (relevantes para las CCAA históricas)
+- **Articulado CE**: `(art. X CE)` o `(art. X.Y CE)` — p. ej. `(art. 149.1.18.ª CE)`
+- **Leyes de desarrollo**: `(art. X LBRL)`, `(art. X LOFCA)`, `(art. X Ley 22/2006)`
+- **Disposiciones de la CE**: `(DT 1.ª CE)`, `(DT 2.ª CE)` (relevantes para las CCAA históricas)
 
 ---
 
@@ -60,8 +60,8 @@ Igual que el resto de temas del bloque administrativo (1-10), el Tema 2 trabaja 
 
 ## Normas de citación en el contenido
 
-1. Toda afirmación que reproduzca texto constitucional va acompañada de `[CE, art. X]`.
-2. El desarrollo legal se identifica siempre con la ley correspondiente (`[LBRL, art. X]`).
+1. Toda afirmación que reproduzca texto constitucional va acompañada de `(art. X CE)`.
+2. El desarrollo legal se identifica siempre con la ley correspondiente (`(art. X LBRL)`).
 3. Los datos memorísticos (plazos, mayorías, número de competencias) se marcan con el callout `[DATO CLAVE]`.
 4. La distinción entre **competencias del art. 148** (asumibles por las CCAA) y **art. 149** (exclusivas del Estado) se recuerda en `[RELACIÓN CON OTROS TEMAS]` cada vez que aparece.
 5. Las aplicaciones al Ayuntamiento de Madrid y a la Ley de Capitalidad se marcan con `[EJEMPLO DE APLICACIÓN EN EL AYTO]`.

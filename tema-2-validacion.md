@@ -21,8 +21,8 @@ Cada ítem se valora con:
 
 - [ ] La fuente nuclear es el **Título VIII de la CE (arts. 137-158)**.
 - [ ] El **alcance ampliado** (LBRL, LOFCA, EAM, Ley 22/2006) es adecuado y no excede el nivel C1.
-- [ ] Cada afirmación que reproduce texto constitucional está referenciada con `[CE, art. X]`.
-- [ ] El desarrollo legal se identifica con la ley correspondiente (`[LBRL, art. X]`, etc.).
+- [ ] Cada afirmación que reproduce texto constitucional está referenciada con `(art. X CE)`.
+- [ ] El desarrollo legal se identifica con la ley correspondiente (`(art. X LBRL)`, etc.).
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo del Título VIII o a la legislación citada.
 
 ## 2. Estructura del contenido
@@ -39,8 +39,8 @@ Cada ítem se valora con:
 - [ ] La estructura del Título VIII es correcta: Cap. I (137-139), Cap. II (140-142), Cap. III (143-158).
 - [ ] Los tres niveles del art. 137 son correctos: municipios, provincias y CCAA.
 - [ ] La distinción autonomía política (CCAA) / autonomía administrativa (locales) / soberanía (pueblo) es correcta.
-- [ ] La elección de Concejales (sufragio universal, igual, libre, directo y secreto) y de Alcalde (por Concejales o vecinos) es correcta [art. 140].
-- [ ] La alteración de límites provinciales exige ley orgánica [art. 141.1].
+- [ ] La elección de Concejales (sufragio universal, igual, libre, directo y secreto) y de Alcalde (por Concejales o vecinos) es correcta (art. 140).
+- [ ] La alteración de límites provinciales exige ley orgánica (art. 141.1).
 - [ ] Los plazos y fracciones del acceso a la autonomía son correctos: 6 meses y 5 años (art. 143); 2/3 vs 3/4 de municipios (143 vs 151); referéndum en la vía 151.
 - [ ] El contenido mínimo del Estatuto (art. 147.2: a-b-c-d) es correcto.
 - [ ] El reparto 148 (22 materias CCAA) vs 149 (32 materias Estado) es correcto.
@@ -83,7 +83,7 @@ Cada ítem se valora con:
 - [ ] Los ficheros `.md` usan encabezados coherentes.
 - [ ] Las tablas están correctamente formateadas.
 - [ ] Los callouts siguen los 4 tipos establecidos.
-- [ ] La nomenclatura de artículos es consistente (`[CE, art. X]`).
+- [ ] La nomenclatura de artículos es consistente (`(art. X CE)`).
 - [ ] Se respeta el castellano sin errores ortográficos manifiestos (revisión hunspell es_ES).
 
 ## 9. Entregables HTML
