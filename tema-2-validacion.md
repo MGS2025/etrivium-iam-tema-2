@@ -19,8 +19,8 @@ Cada ítem se valora con:
 
 ## 1. Fuentes y trazabilidad
 
-- [ ] La fuente nuclear es el **Título VIII de la CE (arts. 137-158)**, coincidente con el PDF aportado por el cliente.
-- [ ] El **alcance ampliado** (LBRL, LOFCA, EAM, Ley 22/2006) es adecuado y no excede el nivel C1. *(Decisión validada con María el 2026-06-15.)*
+- [ ] La fuente nuclear es el **Título VIII de la CE (arts. 137-158)**.
+- [ ] El **alcance ampliado** (LBRL, LOFCA, EAM, Ley 22/2006) es adecuado y no excede el nivel C1.
 - [ ] Cada afirmación que reproduce texto constitucional está referenciada con `[CE, art. X]`.
 - [ ] El desarrollo legal se identifica con la ley correspondiente (`[LBRL, art. X]`, etc.).
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo del Título VIII o a la legislación citada.
@@ -29,10 +29,10 @@ Cada ítem se valora con:
 
 - [ ] El `tema-2-indice.md` refleja fielmente la estructura de `tema-2-contenido.md`.
 - [ ] Las 12 secciones cubren: introducción y modelo, principios generales, Estado autonómico, Administración Local, acceso a la autonomía, Estatutos, competencias, instituciones, control y coerción, financiación, Madrid y resumen.
-- [ ] Los conceptos memorizables aparecen marcados como `[DATO CLAVE EXAMEN]`.
-- [ ] Las reproducciones literales de la CE aparecen como `[CITA CONSTITUCIONAL]`.
-- [ ] Los ejemplos del Ayuntamiento/Comunidad de Madrid están marcados como `[EJEMPLO AYTO MADRID]`.
-- [ ] Los enlaces a otros temas se marcan como `[REFERENCIA CRUZADA]`.
+- [ ] Los conceptos memorizables aparecen marcados como `[DATO CLAVE]`.
+- [ ] Las reproducciones literales de la CE aparecen como `[CITA NORMATIVA]`.
+- [ ] Los ejemplos del Ayuntamiento/Comunidad de Madrid están marcados como `[EJEMPLO DE APLICACIÓN EN EL AYTO]`.
+- [ ] Los enlaces a otros temas se marcan como `[RELACIÓN CON OTROS TEMAS]`.
 
 ## 3. Rigor jurídico
 
@@ -107,7 +107,7 @@ Cada ítem se valora con:
 
 ### Decisiones conscientes que conviene confirmar
 
-1. **Alcance ampliado** (a diferencia del Tema 1, que se ciñó al texto constitucional). Validado con María el 2026-06-15: además del Título VIII, se incorpora la legislación de desarrollo imprescindible (LBRL, LOFCA, EAM, Ley 22/2006) sin doctrina académica.
+1. **Alcance ampliado** (a diferencia del Tema 1, que se ciñó al texto constitucional). Además del Título VIII, se incorpora la legislación de desarrollo imprescindible (LBRL, LOFCA, EAM, Ley 22/2006) sin doctrina académica.
 2. **Banco de 150 preguntas + 20 pedagógicas y 6 casos prácticos**, replicando el formato del Tema 1 ya validado.
 3. **Balanceo automático A/B/C** de las respuestas mediante permutación determinista en `build_t2.py` (evita el sesgo de "opción dominante").
 4. **Sección 11 (Madrid)** incorporada por su valor para el puesto: Comunidad de Madrid (art. 144.a) + Ley de Capitalidad 22/2006.

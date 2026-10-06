@@ -4,6 +4,24 @@
 
 ---
 
+## v1.3 — 2026-10-01 — Revisión jurídica
+
+**Estado**: aplicada la revisión jurídica de los temas 1-10. Textos normativos comprobados contra el BOE consolidado (CE, LBRL, LO 3/1983, LO 6/1982, LO 1/1995, Ley 22/2006).
+
+### Cambios
+
+- **Diagrama D6** (vías de acceso): la caja «Ejemplos» tapaba los rótulos centrales y el texto no cabía en su marco. La caja pasa a ocupar todo el ancho bajo las tres filas (viewBox 700×430) y los rótulos «Municipios en la iniciativa», «Referéndum de iniciativa» y «Techo competencial» quedan centrados (la clase CSS forzaba `text-anchor:start`).
+- **Otros desbordes de diagramas**: D1 (nota inferior centrada en el lienzo), D9 (caja «Asamblea Legislativa» ensanchada) y D11 (dos líneas del Fondo de Compensación centradas en su caja). `qa_svg.py`: 0 desbordes y 0 colisiones.
+- **Cajas**: «Dato clave examen» → **Dato clave** · «Cita constitucional» → **Cita normativa** · «Ejemplo Ayto Madrid» → **Ejemplo de aplicación en el Ayto** · «Referencia cruzada» → **Relación con otros temas**. Leyenda sin promesas sobre el test oficial.
+- **Texto ceñido a la norma**: fuera las valoraciones fuera de cajas (p. ej. «uno de los grandes pilares», «a medio camino entre el Estado unitario y el federal», «de abajo arriba», «tiende a la homogeneización», «el reparto competencial es el núcleo», «mecanismo excepcional», «que de hecho han adoptado todas las CCAA»); los pasajes afectados se reescriben con el texto de los arts. 1.2, 2, 81.1, 143.1, 147.2.d, 148.2, 151.1, 152.1 y 155.1 CE, la DT 2.ª CE y los arts. 1, 3, 4.1, 7, 26, 29.3 y 41 LBRL.
+- **Correcciones de fondo**: Navarra no se constituyó por el art. 144.a) (se quita); la autorización de Madrid es la LO 6/1982 (el Estatuto, la LO 3/1983); el art. 3.2 LBRL ya no incluye las entidades de ámbito inferior al municipio; la LBRL se cita por su preámbulo (art. 149.1.18.ª en relación con el 148.1.2.ª); el art. 155 no exige incumplimiento «grave»; los rasgos de la Ley 22/2006 se citan por sus arts. 5, 7, 9.1 y 22.1; publicación de la Ley 22/2006 corregida (BOE núm. 159, de 05/07/2006).
+- **Citas de artículos**: «artículo» completo cuando forma parte de la oración y «art.» abreviado en el inciso entre paréntesis.
+- **Correcciones comunes**: fuera las referencias al material del cliente (tabla Tier 2, PDF y DOCX de origen, trazabilidad al Tier 2), las validaciones «con María» y la promesa de examen; el temario oficial BOAM pasa a la tabla de fuentes oficiales.
+- **Test**: 32 preguntas del banco reescritas como preguntas literales de la norma (doctrina, valoraciones, «principal ventaja», denominaciones doctrinales y datos no normativos) y 11 de las 20 pedagógicas; un distractor doctrinal sustituido. Respuestas correctas equilibradas 50/50/50 en el `.md` y plantilla regenerada.
+- **Casos prácticos**: soluciones alineadas con el texto literal (DT 2.ª, art. 144.a y LO 6/1982, art. 149.1.18.ª, art. 155.1, concejo abierto según el art. 29.3 LBRL).
+
+---
+
 ## v1.2 — 2026-09-06 — Ficha de extensión y tiempo de estudio
 
 **Estado**: sin cambios de contenido. Solo se añade información sobre el propio tema.

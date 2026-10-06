@@ -67,7 +67,7 @@
   <text x="450" y="273" class="d1-s">autonomía ADMINISTRATIVA (no legislan) · arts. 140-142</text>
   <line x1="350" y1="184" x2="350" y2="230" class="d1-l"/>
   <line x1="570" y1="184" x2="570" y2="230" class="d1-l"/>
-  <text x="130" y="320" class="d1-s" style="font-style:italic">La soberanía es única (pueblo español); la autonomía es poder limitado para los intereses propios.</text>
+  <text x="350" y="320" class="d1-s" style="font-style:italic">La soberanía es única (pueblo español); la autonomía es poder limitado para los intereses propios.</text>
 </svg>
 ```
 
@@ -252,7 +252,7 @@
 **Propósito**: Comparar la vía ordinaria y la vía rápida.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" role="img" aria-label="Comparación de las vías de acceso a la autonomía: vía ordinaria artículo 143 y vía rápida artículo 151">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 430" role="img" aria-label="Comparación de las vías de acceso a la autonomía: vía ordinaria artículo 143 y vía rápida artículo 151">
   <style>
     .d6-hb{font:700 14px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .d6-r{font:600 12px system-ui,sans-serif;fill:#003d73;text-anchor:start}
@@ -265,31 +265,27 @@
   <rect x="480" y="20" width="180" height="42" rx="8" fill="#2d8659"/>
   <text x="570" y="40" class="d6-hb">Vía RÁPIDA</text>
   <text x="570" y="56" class="d6-hb" style="font-weight:400;font-size:11px">art. 151 (privilegiada)</text>
-  <text x="350" y="100" class="d6-r" text-anchor="middle" style="fill:#777">Municipios en la iniciativa</text>
+  <text x="350" y="100" class="d6-r" style="fill:#777;text-anchor:middle">Municipios en la iniciativa</text>
   <rect x="40" y="110" width="180" height="40" rx="6" fill="#e8f0f8"/>
   <text x="130" y="135" class="d6-v">2/3 de municipios</text>
   <rect x="480" y="110" width="180" height="40" rx="6" fill="#e8f5ee"/>
   <text x="570" y="135" class="d6-v">3/4 de municipios</text>
-  <text x="350" y="178" class="d6-r" text-anchor="middle" style="fill:#777">Referéndum de iniciativa</text>
+  <text x="350" y="178" class="d6-r" style="fill:#777;text-anchor:middle">Referéndum de iniciativa</text>
   <rect x="40" y="188" width="180" height="40" rx="6" fill="#e8f0f8"/>
   <text x="130" y="213" class="d6-v">No exigido</text>
   <rect x="480" y="188" width="180" height="40" rx="6" fill="#e8f5ee"/>
   <text x="570" y="213" class="d6-v">Obligatorio</text>
-  <text x="350" y="256" class="d6-r" text-anchor="middle" style="fill:#777">Techo competencial</text>
+  <text x="350" y="256" class="d6-r" style="fill:#777;text-anchor:middle">Techo competencial</text>
   <rect x="40" y="266" width="180" height="54" rx="6" fill="#e8f0f8"/>
   <text x="130" y="288" class="d6-v">Limitado (art. 148)</text>
   <text x="130" y="306" class="d6-s">amplía a los 5 años</text>
   <rect x="480" y="266" width="180" height="54" rx="6" fill="#e8f5ee"/>
   <text x="570" y="288" class="d6-v">Amplio (art. 149)</text>
   <text x="570" y="306" class="d6-s">desde el inicio</text>
-  <rect x="250" y="110" width="200" height="210" rx="8" fill="#fff" stroke="#d1d7df" stroke-width="1"/>
-  <text x="350" y="150" class="d6-s" style="font-weight:700;fill:#003d73">Ejemplos</text>
-  <text x="350" y="180" class="d6-s">Ordinaria: la mayoría</text>
-  <text x="350" y="197" class="d6-s">de CCAA (Madrid vía</text>
-  <text x="350" y="214" class="d6-s">144.a + 143)</text>
-  <text x="350" y="244" class="d6-s">Rápida: Cataluña, País</text>
-  <text x="350" y="261" class="d6-s">Vasco, Galicia (DT 2.ª)</text>
-  <text x="350" y="278" class="d6-s">y Andalucía (151)</text>
+  <rect x="40" y="340" width="620" height="78" rx="8" fill="#fff" stroke="#d1d7df" stroke-width="1"/>
+  <text x="350" y="362" class="d6-s" style="font-weight:700;fill:#003d73">Ejemplos</text>
+  <text x="350" y="384" class="d6-s">Ordinaria: la mayoría de CCAA (Madrid vía 144.a + 143)</text>
+  <text x="350" y="404" class="d6-s">Rápida: Cataluña, País Vasco, Galicia (DT 2.ª) y Andalucía (151)</text>
 </svg>
 ```
 
@@ -386,7 +382,7 @@
     .d9-s{font:11px system-ui,sans-serif;fill:#555;text-anchor:middle}
     .d9-l{stroke:#0055a0;stroke-width:1.5;fill:none}
   </style>
-  <rect x="250" y="30" width="200" height="64" rx="8" fill="#0055a0"/>
+  <rect x="225" y="30" width="250" height="64" rx="8" fill="#0055a0"/>
   <text x="350" y="58" class="d9-h" style="fill:#fff">ASAMBLEA LEGISLATIVA</text>
   <text x="350" y="78" class="d9-s" style="fill:#dbe7f3">sufragio universal · proporcional · legisla</text>
   <rect x="60" y="160" width="230" height="74" rx="8" class="d9-box"/>
@@ -480,8 +476,8 @@
   <line x1="270" y1="160" x2="340" y2="110" class="d11-l"/>
   <rect x="340" y="220" width="330" height="84" rx="8" fill="#e8f5ee" stroke="#2d8659" stroke-width="1.5"/>
   <text x="505" y="248" class="d11-ct" style="fill:#1f5e3f">Fondo de Compensación · art. 158.2</text>
-  <text x="505" y="272" class="d11-s" text-anchor="middle">Corrige desequilibrios interterritoriales</text>
-  <text x="505" y="290" class="d11-s" text-anchor="middle">Lo distribuyen las Cortes Generales</text>
+  <text x="505" y="272" class="d11-s" style="text-anchor:middle">Corrige desequilibrios interterritoriales</text>
+  <text x="505" y="290" class="d11-s" style="text-anchor:middle">Lo distribuyen las Cortes Generales</text>
   <line x1="160" y1="212" x2="160" y2="262" class="d11-l"/>
   <line x1="160" y1="262" x2="340" y2="262" class="d11-l"/>
 </svg>

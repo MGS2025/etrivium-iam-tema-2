@@ -50,7 +50,7 @@
 
 ## Conceptos clave por sección
 
-### Datos memorísticos de alto valor (DATO CLAVE EXAMEN)
+### Datos memorísticos de alto valor (DATO CLAVE)
 
 | Concepto | Dato | Artículo |
 |---|---|---|
@@ -76,7 +76,7 @@
 | Mayoría municipal en la iniciativa | 2/3 de municipios (mayoría del censo) | 3/4 de municipios (mayoría del censo) |
 | Referéndum de iniciativa | No exigido | Obligatorio (mayoría absoluta de electores) |
 | Techo competencial inicial | Limitado al art. 148 | Amplio (art. 149) desde el inicio |
-| Ejemplos | La mayoría de CCAA, entre ellas Madrid (vía art. 143 + LO 144) | Cataluña, País Vasco, Galicia (DT 2.ª) y Andalucía (art. 151) |
+| Ejemplos | La mayoría de CCAA, entre ellas Madrid (art. 144.a, LO 6/1982) | Cataluña, País Vasco, Galicia (DT 2.ª) y Andalucía (art. 151) |
 
 ### Tabla comparativa — Control de la actividad de las CCAA (art. 153)
 
@@ -91,7 +91,7 @@
 
 ## Dependencias con otros temas
 
-- **Tema 1**: La Constitución (I) — estructura general, derechos y reforma; el Título VIII se introduce allí y se desarrolla aquí. [REFERENCIA CRUZADA]
+- **Tema 1**: La Constitución (I) — estructura general, derechos y reforma; el Título VIII se introduce allí y se desarrolla aquí. [Relación con otros temas]
 - **Tema 3**: El Reglamento Orgánico del Gobierno y de la Administración del Ayuntamiento de Madrid (I) — estructura interna municipal.
 - **Tema 4**: El Reglamento Orgánico (II) — los Distritos del Ayuntamiento de Madrid.
 - **Tema 6**: Ley 39/2015 LPAC y transparencia — procedimiento y derechos del ciudadano ante la Administración.

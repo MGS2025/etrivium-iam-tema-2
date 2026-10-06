@@ -30,9 +30,9 @@
 
 **Solución orientativa**:
 
-1. Los tres niveles del art. 137 son **municipios, provincias y Comunidades Autónomas**. En Madrid conviven el **Estado** (por la capitalidad), la **Comunidad de Madrid** (CA uniprovincial) y el **Ayuntamiento de Madrid** (municipio). Al ser uniprovincial, la Comunidad de Madrid asume las funciones de la Diputación Provincial.
-2. La Comunidad de Madrid tiene **autonomía política** (puede dictar leyes a través de la Asamblea de Madrid); el Ayuntamiento tiene **autonomía administrativa** (potestad reglamentaria y de autoorganización, sin potestad legislativa) [CE, arts. 137 y 152].
-3. La **autonomía** es un poder limitado para la gestión de los intereses propios; la **soberanía** es el poder originario y único, y **reside en el pueblo español** [CE, art. 1.2].
+1. Los tres niveles del art. 137 son **municipios, provincias y Comunidades Autónomas**. En Madrid conviven el **Estado** (por la capitalidad), la **Comunidad de Madrid** (CA uniprovincial) y el **Ayuntamiento de Madrid** (municipio). La Comunidad de Madrid asumió todas las competencias, medios y recursos que según la Ley correspondían a la Diputación Provincial de Madrid [EAM, DT 4.ª.2].
+2. La Comunidad de Madrid tiene **autonomía política** (la Asamblea de Madrid ejerce la potestad legislativa de la Comunidad [EAM, art. 9]); el Ayuntamiento tiene **autonomía administrativa** (potestad reglamentaria y de autoorganización, sin potestad legislativa) [CE, arts. 137 y 152].
+3. La **autonomía** se reconoce «para la gestión de sus respectivos intereses» [CE, art. 137]; la **soberanía nacional reside en el pueblo español**, del que emanan los poderes del Estado [CE, art. 1.2].
 4. La **Ley 22/2006 de Capitalidad y de Régimen Especial de Madrid**, por la doble condición del municipio como **capital del Estado** y como **gran ciudad** [LCREM].
 
 **Criterios de evaluación**: se valora citar correctamente el art. 137; distinguir autonomía política/administrativa; identificar la soberanía en el pueblo (art. 1.2); y mencionar la Ley 22/2006.
@@ -55,7 +55,7 @@
 1. Los Concejales son elegidos por los **vecinos del municipio** mediante sufragio **universal, igual, libre, directo y secreto**, en la forma establecida por la ley (LOREG) [CE, art. 140].
 2. El Alcalde se elige **por los Concejales o por los vecinos** [CE, art. 140].
 3. El municipio goza de **personalidad jurídica plena** y su gobierno y administración corresponden al **Ayuntamiento**, integrado por el Alcalde y los Concejales [CE, art. 140].
-4. El **concejo abierto** es un régimen de gobierno por asamblea vecinal (propio de municipios de muy escasa población); la Constitución remite su regulación a la ley [CE, art. 140; desarrollo en LBRL].
+4. La Constitución remite a la ley la regulación de las condiciones en las que proceda el régimen del **concejo abierto** [CE, art. 140]. En este régimen, el gobierno y la administración municipales corresponden a un Alcalde y una asamblea vecinal de la que forman parte todos los electores [LBRL, art. 29.3].
 
 **Criterios de evaluación**: enumerar correctamente los cinco adjetivos del sufragio; señalar la doble vía de elección del Alcalde; citar la personalidad jurídica plena; identificar el concejo abierto.
 
@@ -70,12 +70,12 @@
 1. **(2 pts)** Clasifique como competencia "asumible por la CA" o "exclusiva del Estado": (i) ordenación del territorio y urbanismo; (ii) Administración de Justicia; (iii) relaciones internacionales; (iv) promoción del turismo.
 2. **(2 pts)** ¿Qué establece el artículo 149.1.18.ª y qué relevancia tiene para la actividad administrativa?
 3. **(3 pts)** Explique las tres reglas de la cláusula de cierre del artículo 149.3 (residual, prevalencia y supletoriedad).
-4. **(3 pts)** ¿Qué instrumentos del artículo 150 permiten flexibilizar el reparto competencial?
+4. **(3 pts)** ¿Qué tipos de leyes prevé el artículo 150?
 
 **Solución orientativa**:
 
 1. (i) Ordenación del territorio y urbanismo: **asumible por la CA** [CE, art. 148.1.3.ª]; (ii) Administración de Justicia: **exclusiva del Estado** [CE, art. 149.1.5.ª]; (iii) relaciones internacionales: **exclusiva del Estado** [CE, art. 149.1.3.ª]; (iv) promoción del turismo: **asumible por la CA** [CE, art. 148.1.18.ª].
-2. El art. 149.1.18.ª atribuye al Estado las **bases del régimen jurídico de las Administraciones públicas** y el **procedimiento administrativo común**; de él derivan la LBRL y la Ley 39/2015 (LPAC). Garantiza un tratamiento común de los administrados ante todas las AAPP.
+2. El artículo 149.1.18.ª atribuye al Estado la competencia exclusiva sobre las **bases del régimen jurídico de las Administraciones públicas** y del régimen estatutario de sus funcionarios, que en todo caso garantizarán a los administrados un **tratamiento común** ante ellas, y sobre el **procedimiento administrativo común**, sin perjuicio de las especialidades derivadas de la organización propia de las CCAA.
 3. **Residual**: las materias no atribuidas expresamente al Estado pueden corresponder a las CCAA por sus Estatutos. **Prevalencia**: en conflicto, prevalecen las normas del Estado en lo no exclusivo de las CCAA. **Supletoriedad**: el derecho estatal es, en todo caso, supletorio del autonómico [CE, art. 149.3].
 4. **Leyes marco** (150.1), **leyes orgánicas de transferencia o delegación** (150.2) y **leyes de armonización** (150.3) [CE, art. 150].
 
@@ -97,9 +97,9 @@
 **Solución orientativa**:
 
 1. Iniciativa de **todas las Diputaciones interesadas** (u órgano interinsular) **y de las 2/3 partes de los municipios** cuya población represente la mayoría del censo de cada provincia; plazo de **6 meses** desde el primer acuerdo; si fracasa, se reitera a los **5 años** [CE, art. 143.2 y 143.3].
-2. Iniciativa de las Diputaciones **y de las 3/4 partes de los municipios** (mayoría del censo), **ratificada mediante referéndum** por mayoría absoluta de los electores de cada provincia; permite asumir el máximo techo competencial (art. 149) sin esperar 5 años [CE, art. 151.1].
-3. Se beneficiaron de la **Disposición Transitoria 2.ª** (habían plebiscitado Estatutos en el pasado), accediendo a la autonomía plena sin el referéndum de iniciativa del art. 151 [CE, DT 2.ª].
-4. La **Comunidad de Madrid** se constituyó al amparo del **art. 144.a)** CE, por ser **uniprovincial** y por motivos de interés nacional (mediante la LO 3/1983) [CE, art. 144.a)].
+2. Iniciativa de las Diputaciones **y de las 3/4 partes de los municipios** (mayoría del censo), **ratificada mediante referéndum** por mayoría absoluta de los electores de cada provincia; en ese caso no es preciso dejar transcurrir el plazo de cinco años del artículo 148.2 [CE, art. 151.1].
+3. Se acogieron a la **Disposición transitoria segunda**: los territorios que en el pasado hubiesen plebiscitado afirmativamente proyectos de Estatuto de autonomía y contasen con regímenes provisionales de autonomía podían proceder inmediatamente en la forma prevista en el artículo 148.2, por acuerdo por mayoría absoluta de sus órganos preautonómicos colegiados superiores, sin la iniciativa del artículo 151.1; el proyecto de Estatuto se elaboraba conforme al artículo 151.2 [CE, DT 2.ª].
+4. La **LO 6/1982** autorizó a la provincia de Madrid, por razones de interés nacional, para constituirse en Comunidad Autónoma, al amparo del **artículo 144.a)** CE: su ámbito territorial no supera el de una provincia y no reúne las condiciones del artículo 143.1. Su Estatuto de Autonomía se aprobó por la LO 3/1983 [CE, art. 144.a)].
 
 **Criterios de evaluación**: exactitud en plazos (6 meses / 5 años) y fracciones (2/3 vs 3/4); identificación del referéndum en la vía 151; correcta atribución de la DT 2.ª y del art. 144.a) para Madrid.
 
@@ -107,7 +107,7 @@
 
 ## CASO PRÁCTICO 5 — Control de las Comunidades Autónomas y coerción estatal
 
-**Escenario**: En un seminario sobre relaciones entre administraciones se plantea cómo controla el Estado la actividad de las Comunidades Autónomas y qué ocurre en supuestos de incumplimiento grave.
+**Escenario**: En un seminario sobre relaciones entre administraciones se plantea cómo controla el Estado la actividad de las Comunidades Autónomas y qué ocurre en supuestos de incumplimiento.
 
 **Cuestiones**:
 
@@ -120,7 +120,7 @@
 
 1. **Tribunal Constitucional** (constitucionalidad de disposiciones con fuerza de ley); **Gobierno**, previo dictamen del Consejo de Estado (ejercicio de funciones delegadas del art. 150.2); **jurisdicción contencioso-administrativa** (administración autónoma y reglamentos); **Tribunal de Cuentas** (control económico y presupuestario) [CE, art. 153].
 2. Dirige la **Administración del Estado** en el territorio de la CA y la coordina, cuando proceda, con la administración propia de la Comunidad [CE, art. 154].
-3. Presupuesto: incumplimiento grave de obligaciones o atentado grave al interés general. Requiere **requerimiento previo** al Presidente de la CA y, si no es atendido, **aprobación por mayoría absoluta del Senado** [CE, art. 155.1].
+3. Presupuesto: que una Comunidad Autónoma no cumpla las obligaciones que la Constitución u otras leyes le impongan, o actúe de forma que atente gravemente al interés general de España. Requiere **requerimiento previo** al Presidente de la CA y, si no es atendido, **aprobación por mayoría absoluta del Senado** [CE, art. 155.1].
 4. El Gobierno podrá dar **instrucciones a todas las autoridades** de la Comunidad Autónoma [CE, art. 155.2].
 
 **Criterios de evaluación**: enumeración completa y correcta de las cuatro vías del art. 153; función del Delegado del Gobierno; exactitud del requisito de mayoría absoluta del Senado en el art. 155.
